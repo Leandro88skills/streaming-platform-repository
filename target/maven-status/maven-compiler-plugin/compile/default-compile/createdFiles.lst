@@ -1,0 +1,16 @@
+com\streaming\platform\builder\MovieBuilder.class
+com\streaming\platform\model\Genre.class
+com\streaming\platform\model\Movie.class
+com\streaming\platform\service\AuthService.class
+com\streaming\platform\config\InitialDataConfig.class
+com\streaming\platform\StreamingPlatformApplication.class
+com\streaming\platform\controller\AuthController.class
+com\streaming\platform\controller\CatalogController.class
+com\streaming\platform\model\Series$SeriesBuilder.class
+com\streaming\platform\model\User.class
+com\streaming\platform\singleton\CatalogSingleton.class
+com\streaming\platform\model\Movie$MovieBuilder.class
+com\streaming\platform\service\CatalogService.class
+com\streaming\platform\builder\SeriesBuilder.class
+com\streaming\platform\model\Series.class
+com\streaming\platform\repository\StreamingRepository.class
